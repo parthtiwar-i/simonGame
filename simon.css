@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(33, 33, 69); 
+    text-align:center;
+}
+
+h1{
+    color:antiquewhite;
+    font-size :4rem;
+    font-family: 'Press Start 2P', cursive;
+
+}
+
+
+button{
+    margin: 2.5rem;
+    border: 7px outset rgb(6, 6, 6) ;
+    border-radius: 15%;
+    width: 13rem;
+    height:13rem;
+}
+
+.green{
+    background-color:green;
+}
+.red{
+    background-color:red;
+}
+.yellow{
+    background-color:yellow;
+}
+.blue{
+    background-color:blue;
+}
+
+.pressed{
+    box-shadow: 0px 0px 7px 5px white ;
+    background-color: grey;
+}
+
+.wrong{
+    background-color: red;
+}
